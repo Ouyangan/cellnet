@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "HsV+mgKb58tt//WkqExVHnjZDiM=",
+			"path": "github.com/davyxu/golog",
+			"revision": "ca7cbe42440ba09c4c4348478bfea0112f68e696",
+			"revisionTime": "2018-06-12T02:34:21Z"
+		}
+	],
+	"rootPath": "github.com/davyxu/cellnet"
+}
